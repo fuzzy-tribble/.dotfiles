@@ -94,7 +94,7 @@ set listchars=tab:>-
 "map <Leader>5 99<C-W><Up>4<C-W>j<C-W>_
 "map <Leader>d Oimport pdb; pdb.set_trace()^[
 
-"split navigations
+"split navigation
 "nnoremap <C-J> <C-W><C-J>
 "nnoremap <C-K> <C-W><C-K>
 "nnoremap <C-L> <C-W><C-L>
